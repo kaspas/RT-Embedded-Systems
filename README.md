@@ -1,6 +1,6 @@
 # RT-Embedded-Systems
 
-project for university course Real Time Embedded Systems 
+projects for university course Real Time Embedded Systems 
 
 Working on ZSUN with openWRT OS 
 
