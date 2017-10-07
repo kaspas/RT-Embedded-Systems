@@ -1,0 +1,9 @@
+Compile
+Change the path of cross-compiler 
+To run the code on zsun you need the following libraries 
+librt.so.0 
+libpthread.so.0
+in lib/ file
+
+searchwifi.sh must be in the same folder with the executable  
+sorry for the ssid_and_stambs :P
